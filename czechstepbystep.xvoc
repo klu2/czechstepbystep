@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Vocabulary sourceLanguage="Tschechisch" targetLanguage="Deutsch">
+    <Info>
+        <Author>Klaus Lehner</Author>
+        <Comment>Vokabeln aus dem Anhang</Comment>
+        <Date>2012-02-13T22:23:09.490+01:00</Date>
+        <Title>Čeština Express příloha</Title>
+        <WordCount>156</WordCount>
+    </Info>
+    <Root>
+        <Chapter title="Lektion 1">
+            <Page title="Seite 4">
+                <Word sourceWord="Ano." targetWord="Ja.">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Co znamená?" targetWord="Was bedeutet?">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Děkuji." targetWord="Danke.">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Dobře." targetWord="Gut.">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Jak se řekne?" targetWord="Wie sagt man?">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Jak se to píše?" targetWord="Wie schreibt man das?">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Ještě jednou, prosím." targetWord="Noch einmal, bitte.">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Ne." targetWord="Nein.">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Nerozumím." targetWord="Das verstehe ich nicht.">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Prosím." targetWord="Bitte.">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Rozumíte?" targetWord="Verstehen Sie?">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Špatně." targetWord="Schlecht.">
+                    <Comment></Comment>
+                </Word>
+            </Page>
+            <Page title="Seite 6">
+                <Word sourceWord="ten auto" targetWord="das Auto">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="být" targetWord="sein">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="jsem" targetWord="ich bin">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="co" targetWord="was">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="český" targetWord="tschechisch">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ten den" targetWord="der Tag">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="dobrý" targetWord="gut">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ten hrad" targetWord="die Burg">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="je" targetWord="ist">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="kdo" targetWord="wer">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ten křišťál" targetWord="der Kristall">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta noc" targetWord="die Nacht">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="to pivo" targetWord="das Bier">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="to ráno" targetWord="der Morgen">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ten večer" targetWord="der Abend">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Co je to?" targetWord="Was ist das?">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Dobré ráno!" targetWord="Guten Morgen!">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Dobrou noc!" targetWord="Gute Nacht!">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Dobrý den!" targetWord="Guten Tag!">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Dobrý večer!" targetWord="Guten Abend!">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Kdo je to?" targetWord="Wer ist das?">
+                    <Comment></Comment>
+                </Word>
+            </Page>
+            <Page title="Seite 7">
+                <Word sourceWord="a" targetWord="und">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ahoj" targetWord="hallo">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="čau" targetWord="tschüss">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="dělat" targetWord="machen">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="dělám" targetWord="ich mache">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ten ekonom" targetWord="der Ökonom">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta ekonomka" targetWord="die Ökonomin">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta Itálie" targetWord="das Italien">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="jít" targetWord="gehen">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta Kanada" targetWord="das Kanada">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta kancelář" targetWord="das Büro">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="v kanceláři" targetWord="im Büro">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="mě" targetWord="mich">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="muset" targetWord="müssen">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="musím" targetWord="ich muss">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="to Německo" targetWord="das Deutschland">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="odkud" targetWord="woher">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="prominout" targetWord="verzeichen">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="prominu" targetWord="ich verzeihe">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Promiň!" targetWord="Entschuldige!">
+                    <Comment>Imperativ</Comment>
+                </Word>
+                <Word sourceWord="Promiňte!" targetWord="Entschuldigen Sie!">
+                    <Comment>Imperativ</Comment>
+                </Word>
+                <Word sourceWord="ta restaurace" targetWord="das Restaurant">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="v restauraci" targetWord="im Restaurant">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta situace" targetWord="die Situation">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ten student" targetWord="der Student">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta studentka" targetWord="die Studentin">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="tak" targetWord="so">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="těšit" targetWord="jemanden erfreuen">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="těším" targetWord="ich erfreue">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ty" targetWord="du">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ten učitel" targetWord="der Lehrer">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta učitelka" targetWord="die Lehrerin">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="už" targetWord="schon">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ten Vietnam" targetWord="das Vietnam">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Co děláš?" targetWord="Was machst du?">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Co děláte?" targetWord="Was machen Sie?">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Na shledanou." targetWord="Auf Wiedersehen.">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Odkud jsi?" targetWord="Woher kommst du?">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Odkud jste?" targetWord="Woher kommen Sie?">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Promiňte, musím jít." targetWord="Entschuldigen Sie bitte, ich muss gehen.">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Těší mě!" targetWord="Freut mich!">
+                    <Comment></Comment>
+                </Word>
+            </Page>
+            <Page title="Seite 8">
+                <Word sourceWord="ale" targetWord="aber">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="já" targetWord="ich">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ten manažer" targetWord="der Manager">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta manažerka" targetWord="die Managerin">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="my" targetWord="wir">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="on" targetWord="er">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ten pan" targetWord="der Herr">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta paní" targetWord="die Frau">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta slečna" targetWord="das Fräulein">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="že" targetWord="nicht wahr">
+                    <Comment></Comment>
+                </Word>
+            </Page>
+            <Page title="Seite 9">
+                <Word sourceWord="ta Česká republika" targetWord="die Tschechische Republik">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="to Česko" targetWord="das Tschechien">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta Francie" targetWord="das Frankreich">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ten herec" targetWord="der Schauspieler">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta herečka" targetWord="die Schauspielerin">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="to Irsko" targetWord="das Irland">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="nic" targetWord="nichts">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ten politik" targetWord="die Politik">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta politička" targetWord="die Politikerin">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="to Polsko" targetWord="das Polen">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ten profesor" targetWord="der Professor">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta profesorka" targetWord="die Professorin">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="to Rusko" targetWord="das Russland">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ten sportovec" targetWord="der Sportler">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta sportovkyně" targetWord="die Sportlerin">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta Ukrajina" targetWord="die Ukraine">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ten spěvák" targetWord="der Sänger">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta spěvačka" targetWord="die Sängerin">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="To nic." targetWord="Nichts passiert.">
+                    <Comment></Comment>
+                </Word>
+            </Page>
+            <Page title="Seite 10">
+                <Word sourceWord="to číslo" targetWord="die Zahl">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="díky" targetWord="danke">
+                    <Comment>umgangssprachlich</Comment>
+                </Word>
+                <Word sourceWord="jak" targetWord="wie">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="mít" targetWord="haben">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="mám" targetWord="ich habe">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="no" targetWord="also">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="prosit" targetWord="bitten">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="prosím" targetWord="ich bitte">
+                    <Comment>Verb</Comment>
+                </Word>
+                <Word sourceWord="tady" targetWord="hier">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ten telefon" targetWord="das Telefon">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="vás" targetWord="euch, Sie">
+                    <Comment>2. und 4. Fall von vy</Comment>
+                </Word>
+                <Word sourceWord="Jak se máš?" targetWord="Wie geht es dir?">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Ja se máte?" targetWord="Wie geht es Ihnen?">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Jaký máš telefon?" targetWord="Wie ist deine Telefonnummer?">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Jaký máte telefon?" targetWord="Wie ist Ihre Telefonnummer?">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Prosim vás..." targetWord="Entschuldigen Sie...">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Ujde to." targetWord="Geht so.">
+                    <Comment></Comment>
+                </Word>
+            </Page>
+            <Page title="Seite 11">
+                <Word sourceWord="ten autobus" targetWord="der Bus">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="nový" targetWord="neu">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ten problém" targetWord="das Problem">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ten slon" targetWord="der Elefant">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Dále!" targetWord="Herein!">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="S dovolením" targetWord="Gestatten Sie!">
+                    <Comment></Comment>
+                </Word>
+            </Page>
+        </Chapter>
+        <Chapter title="Lektion 2">
+            <Page title="Seite 14">
+                <Word sourceWord="ta banka" targetWord="die Bank">
+                    <Comment>Geldinstitut</Comment>
+                </Word>
+                <Word sourceWord="blízko" targetWord="nah">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="daleko" targetWord="weit">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="to divadlo" targetWord="das Theater">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="dole" targetWord="unten">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta kavárna" targetWord="das Café">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="to kino" targetWord="das Kino">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ten kostel" targetWord="die Kirche">
+                    <Comment>(nur das Gebäude)</Comment>
+                </Word>
+                <Word sourceWord="to město" targetWord="die Stadt">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ten most" targetWord="die Brücke">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ten nádraži" targetWord="der Bahnhof">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ten náměstí" targetWord="der Platz">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="nahoře" targetWord="oben">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta nemocnice" targetWord="das Krankenhaus">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ten obchod" targetWord="das Geschäft">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta orientace" targetWord="die Orientierung">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta řeka" targetWord="der Fluss">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta socha" targetWord="die Statue">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta stanice" targetWord="die Station">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta škola" targetWord="die Schule">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="uprostřed" targetWord="in der Mitte">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="vedle" targetWord="neben">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta vesnice" targetWord="das Dorf">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="vlevo" targetWord="links">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="nalevo" targetWord="nach links">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="vpravo" targetWord="rechts">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="napravo" targetWord="nach rechts">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="ta zastávka" targetWord="die Haltestelle">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Je to blízko nebo daleko?" targetWord="Ist das in der Nähe oder weit weg?">
+                    <Comment></Comment>
+                </Word>
+                <Word sourceWord="Kde je?" targetWord="Wo ist?">
+                    <Comment></Comment>
+                </Word>
+            </Page>
+        </Chapter>
+    </Root>
+</Vocabulary>
